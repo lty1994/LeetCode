@@ -1,6 +1,2 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git has a mutable index called stage.
-Git tracks changes.
-
-modify test
+1、简单分类记录了LeetCode上的题目和解答
+2、对于比较难和复杂的题目则做详细解答，以备后用
