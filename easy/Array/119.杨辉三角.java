@@ -7,6 +7,8 @@
 示例:
 输入: 3
 输出: [1,3,3,1]
+
+ 问题分类:数组
 **/
 class Solution {
     public List<Integer> getRow(int rowIndex) {
